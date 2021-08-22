@@ -35,11 +35,10 @@ public class CameraMovement {
 	 * @param pos
 	 */
 	public void lookLever(BlockPos pos) {
-		Vec3 eyesPos = new Vec3(HitwSkip.player.posX, HitwSkip.player.posY + HitwSkip.player.eyeHeight, HitwSkip.player.posZ);
 		Vec3 posVec = new Vec3(pos).addVector(0.5, 0.5, 0.5);
-		double distanceSqPosVec = eyesPos.squareDistanceTo(posVec);
 		Vec3 hitVec = posVec.add(new Vec3(EnumFacing.UP.getDirectionVec()));
 		float[] rot = getNeededRotations2(hitVec);
+		
 		smoothMovement(rot);
 	}
 	
