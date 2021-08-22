@@ -24,6 +24,8 @@ When playing after completing a wall you can see the preview of the next wall th
 To overcome this issue, this mod make a player a bot account skipping walls during all the round, this make the server generate all walls before actual player build them making the preview show the correct next wall since the bot is now in the case of the fastest player.
 
 ## How to use
+[Video explanation](https://www.youtube.com/watch?v=s1S8jGpmLeI)
+
 0) This mod use [forge 1.8.9](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) to work.
 1) Launch a separated game with another account using this mod.
 2) With your main account (the one you play with) party the bot account and queue a game of Hole in the Wall.
