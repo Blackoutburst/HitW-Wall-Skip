@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/github/license/Blackoutburst/HitW-Wall-Skip.svg)](LICENSE)
 [![Release](https://img.shields.io/github/release/Blackoutburst/HitW-Wall-Skip.svg)](https://github.com/Blackoutburst/HitW-Wall-Skip/releases)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/afe6e173a8cd4c35b2f8aa50a8e98abc)](https://www.codacy.com/gh/Blackoutburst/HitW-Wall-Skip/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Blackoutburst/HitW-Wall-Skip&amp;utm_campaign=Badge_Grade)
 
 # HitW-Wall-Skip
 A simple bot to skip walls during the qualification stage of Hole in the Wall on Hypixel.
