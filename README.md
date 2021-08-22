@@ -12,8 +12,11 @@ I did some test and didn't get banned but I can't grantee anything use at your o
 No, unless for you fixing a game glitch is cheating.
 
 ## WHY
-Hole in the Wall on Hypixel suffer from a glitch only problematic during the qualification round.\n
+Hole in the Wall on Hypixel suffer from a glitch only problematic during the qualification round.
+
 This issue affects the scores of high-level players, so this mod is used to fix this issue.
+
+If you don't peek through glass you are not concerned by this and don't need this.
 
 ## The issue
 When playing after completing a wall you can see the preview of the next wall through glass but if you are the one generating the walls (the fastest player) sometimes the preview show your current wall instead of the next one leading to mistake when building due to incorrect wall memorisation.
