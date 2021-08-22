@@ -35,3 +35,5 @@ If the game is paused or the chat is open the player can't do action but for som
 
 ## Current problem
 The game pause itself when you re queue since the windows is not focused anymore so you need to go on the bot account unpause the game and re open the inventory.
+
+Could fix every problem by making every action server side using packet but eh better do extra steps than getting banned
